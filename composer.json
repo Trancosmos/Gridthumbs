@@ -21,11 +21,6 @@
           "Magento\\CommandExample\\": ""
         }
     },
-    "repositories": [
-    {
-      "type": "composer",
-      "url": "https://github.com/Trancosmos/Gridthumbs-repository"
-    },
     "extra": {
         "map": [
             [
