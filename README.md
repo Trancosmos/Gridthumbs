@@ -1,4 +1,4 @@
-magento2-Inchoo_Stripe
+magento2-Gridthumbs
 ======================
 
 Gridthumbs Magento2 extension
