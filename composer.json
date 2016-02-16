@@ -2,7 +2,7 @@
     "name": "trancosmos/gridthumbs",
     "description": "Stripe integration for Magento 2",
     "type": "magento2-module",
-    "version": "dev-master",
+    "version": "master",
     "license": [
         "OSL-3.0"
     ],
