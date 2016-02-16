@@ -4,7 +4,7 @@
     "prefer-stable": true,
     "description": "N/A",
     "require": {
-         "magento/magento-composer-installer": "*"
+         "trancosmos/gridthumbs": "*"
     },
     "type": "magento2-module",
     "version": "2.0.0",
