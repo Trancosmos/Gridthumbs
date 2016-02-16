@@ -1,21 +1,13 @@
 {
     "name": "trancosmos/gridthumbs",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "description": "N/A",
-    "require": {
-         "trancosmos/gridthumbs": "*"
-    },
+    "description": "Stripe integration for Magento 2",
     "type": "magento2-module",
-    "version": "2.0.0",
+    "version": "dev-master",
     "license": [
-        "OSL-3.0",
-        "AFL-3.0"
+        "OSL-3.0"
     ],
-    "autoload": {
-        "files": [
-            "registration.php"
-        ]
+    "require": {
+        "trancosmos/gridthumbs-php": "2.*"
     },
     "extra": {
         "map": [
@@ -26,3 +18,4 @@
         ]
     }
 }
+
