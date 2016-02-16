@@ -1,6 +1,6 @@
 {
     "name": "trancosmos/gridthumbs",
-    "description": "Stripe integration for Magento 2",
+    "description": "Gridthumbs for Magento 2",
     "type": "magento2-module",
     "version": "master",
     "license": [
